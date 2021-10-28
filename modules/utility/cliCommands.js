@@ -19,7 +19,7 @@ module.exports = {
                         mapFunctions.set(command.name, command);
                     }
                 });
-                console.log(`Reloaded ${mapEvents.size + mapFunctions.size} modules`)
+                console.log(`Reloaded ${mapFunctions.size} modules`)
             break;
             default:
                 console.log("This is not a recognised command");

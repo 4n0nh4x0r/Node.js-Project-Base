@@ -1,19 +1,20 @@
 {
-  "name": "locationsystem",
+  "name": "node.js-project-base",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index",
-    "run": "node index"
+    "start":"node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4n0nh4x0r/Node.js-Project-Base.git"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@socket.io/admin-ui": "^0.2.0",
-    "express": "^4.17.1",
-    "mysql": "^2.18.1",
-    "socket.io": "^4.2.0"
-  }
+  "bugs": {
+    "url": "https://github.com/4n0nh4x0r/Node.js-Project-Base/issues"
+  },
+  "homepage": "https://github.com/4n0nh4x0r/Node.js-Project-Base#readme"
 }
