@@ -2,7 +2,7 @@
 ## What is this thing?
 Have you ever programmed a project that took more than a second to start up, for example a discord bot?  
 Then you probably encountered getting impatient, or being afraid of hitting the ratelimit for logins.  
-If that is the case, then this peoject base is the perfect solution for you.
+If that is the case, then this project base is the perfect solution for you.
 
 This project base allows you to add/edit/remove functionality (modules) at any time on runtime without having to restart the project.
 That way ratelimits like discord's 1 login per 5 seconds for example wont be hit, as the bot simply doesnt need to restart to add features.
