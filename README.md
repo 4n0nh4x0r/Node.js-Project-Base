@@ -9,7 +9,7 @@ That way ratelimits like discord's 1 login per 5 seconds for example wont be hit
 On top of that, this system also allows for having your code nicely structured, with each module being one functionality, making your code much much cleaner.
 
 ## How do i use this?
-It is actually very simple to use, i write quite a few comments throughout the files, eplaining how they work, and what they do.  
+It is actually very simple to use, i write quite a few comments throughout the files, explaining how they work, and what they do.  
 But here is a small guide on how  
 
 1.) You clone the repo (obviously)  
