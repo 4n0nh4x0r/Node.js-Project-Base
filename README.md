@@ -20,6 +20,6 @@ But here is a small guide on how
     In this folder you can create direct subfolders (NOT SUBFOLDERS IN SUBFOLDERS OF MODULES)  
 5.) Take a look at the example.js file, and use it as base for your modules  
     Note that you can add pretty much any objects that you want, the name object must stay as that one is used for identifying the module, but you can add functions as you want  
-6.) If you have added/removed or edited any modules, you can now while the program is running, type in reload into its cli and it will reload all the modules  
+6.) If you have added/removed or edited any modules, you can now while the program is running, type in `reload` into its cli and it will reload all the modules  
 7.) Profit
 
