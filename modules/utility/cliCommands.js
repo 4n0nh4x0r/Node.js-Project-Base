@@ -6,6 +6,7 @@ module.exports = {
                 process.exit(1);
             break;
             case "reload":
+                mapFunctions.clear()
                 // Reloading the Function Map
                 var path = `${mainDir}/modules`
                 var folders = fs.readdirSync(path).filter(function (file) {
