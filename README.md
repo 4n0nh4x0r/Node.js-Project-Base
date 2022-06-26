@@ -9,7 +9,7 @@ That way ratelimits like discord's 1 login per 5 seconds for example wont be hit
 On top of that, this system also allows for having your code nicely structured, with each module being one functionality, making your code much much cleaner.
 
 ## How do i use this?
-It is actually very simple to use, i write quite a few comments throughout the files, explaining how they work, and what they do.  
+It is actually very simple to use, i wrote quite a few comments throughout the files, explaining how they work, and what they do.  
 But here is a small guide on how  
 
 1.) You clone the repo (obviously)  
@@ -19,7 +19,7 @@ But here is a small guide on how
 4.) Look into the `modules` folder and understand the structure it has  
     In this folder you can create direct subfolders (NOT SUBFOLDERS IN SUBFOLDERS OF MODULES)  
 5.) Take a look at the example.js file, and use it as base for your modules  
-    Note that you can add pretty much any objects that you want, the name object must stay as that one is used for identifying the module, but you can add functions as you want  
+    Note that you can add pretty much any property that you want, the name property must stay as that one is used for identifying the module, but you can add functions as you want  
 6.) If you have added/removed or edited any modules, you can now while the program is running, type in `reload` into its cli and it will reload all the modules  
 7.) Profit
 
